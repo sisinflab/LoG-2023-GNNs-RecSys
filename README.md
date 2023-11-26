@@ -1,6 +1,6 @@
 # Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation
 
-Accepted as tutorial as the 2nd Learning on Graphs Conference (LoG 2023).
+Accepted as tutorial as the 2nd Learning on Graphs Conference (**[LoG 2023](https://logconference.org/)**).
 
 November 30, 2023 (5pm-8pm GMT). Online.
 
