@@ -4,7 +4,7 @@
 
 📅 November 30, 2023 (5pm-8pm GMT). **Online** and **[free to attend](https://docs.google.com/forms/d/e/1FAIpQLSdK4YL3zIidvUrDmqXUJaS-jISdhSTHoooz6XNHfmwXTY3xFw/viewform?usp=send_form)**!
 
-📚 Materials: **\[[slides](./slides/)\]** **\[[codes](./codes/)\]** **\[[paper](https://arxiv.org/abs/2310.11270)\]**
+📚 Materials: **\[[website](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/)\]** **\[[slides](./slides/)\]** **\[[codes](./codes/)\]** **\[[paper](https://arxiv.org/abs/2310.11270)\]**
 
 ## Abstract
 
