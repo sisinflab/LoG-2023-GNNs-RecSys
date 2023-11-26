@@ -10,7 +10,7 @@ Graph neural networks (GNNs) have gained prominence in recommendation systems in
 
 ## Tutorial schedule
 
-Total tutorial duration: 180 minutes
+🕦 Total tutorial duration: 180 minutes
 
 **[Introduction and background](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part0.pdf)** (_Tommaso Di Noia_): 20 minutes
 
