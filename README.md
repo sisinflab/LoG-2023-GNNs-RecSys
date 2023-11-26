@@ -12,13 +12,6 @@ Graph neural networks (GNNs) have gained prominence in recommendation systems in
 
 Total tutorial duration: 180 minutes
 
-<div class="button-container">
-    <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/sections/introduction/" class="button">Pt.0 Introduction</a>
-    <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/sections/reproducibility/" class="button">Pt.1 Reproducibility</a>
-    <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/sections/graph_topology/" class="button">Pt.2 Graph Topology</a>
-    <a href="https://sisinflab.github.io/tutorial-gnns-recsys-log2023/sections/node_representation/" class="button">Pt.3 Node Representation</a>
-</div>
-
 **[Introduction and background](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/assets/slides/Part0.pdf)** (_Tommaso Di Noia_): 20 minutes
 
 + Introduction and motivations of the tutorial: 5 minutes
