@@ -2,7 +2,7 @@
 
 ⭐️ Accepted as tutorial as the 2nd Learning on Graphs Conference (**[LoG 2023](https://logconference.org/)**).
 
-📅 November 30, 2023 (5pm-8pm GMT). Online and free to attend!
+📅 November 30, 2023 (5pm-8pm GMT). **Online** and **[free to attend](https://docs.google.com/forms/d/e/1FAIpQLSdK4YL3zIidvUrDmqXUJaS-jISdhSTHoooz6XNHfmwXTY3xFw/viewform?usp=send_form)**!
 
 ## Abstract
 
