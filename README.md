@@ -59,7 +59,7 @@ Email: [daniele.malitesta@poliba.it](mailto:daniele.malitesta@poliba.it)
 
 Website: [https://danielemalitesta.github.io/](https://danielemalitesta.github.io/)
 
-<img src="https://danielemalitesta.github.io/images/profilo_new.jpeg" alt="Daniele Malitesta"  width="200"/>
+<img src="./images/daniele.jpeg" alt="Daniele Malitesta"  width="200"/>
 
 ---
 
@@ -71,7 +71,7 @@ Email: [claudio.pomo@poliba.it](mailto:claudio.pomo@poliba.it)
 
 Website: [https://sisinflab.poliba.it/people/claudio-pomo/](https://sisinflab.poliba.it/people/claudio-pomo/)
 
-<img src="https://sisinflab.poliba.it/wp-content/uploads/2020/07/image2-1197215127-scaled.jpg" alt="Claudio Pomo"  width="200"/>
+<img src="./images/claudio.jpeg" alt="Claudio Pomo"  width="200"/>
 
 ---
 
@@ -83,4 +83,4 @@ Email: [tommaso.dinoia@poliba.it](mailto:tommaso.dinoia@poliba.it)
 
 Website: [https://sisinflab.poliba.it/people/tommaso-di-noia/](https://sisinflab.poliba.it/people/tommaso-di-noia/)
 
-<img src="https://sisinflab.poliba.it/wp-content/uploads/2020/07/t_dinoia-506699224-315x270.png" alt="Tommaso Di Noia"  width="200" />
+<img src="./images/tommaso.jpeg" alt="Tommaso Di Noia"  width="200" />
