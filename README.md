@@ -4,6 +4,8 @@
 
 📅 November 30, 2023 (5pm-8pm GMT). **Online** and **[free to attend](https://docs.google.com/forms/d/e/1FAIpQLSdK4YL3zIidvUrDmqXUJaS-jISdhSTHoooz6XNHfmwXTY3xFw/viewform?usp=send_form)**!
 
+📚 Materials: **\[[slides](./slides/)\]** **\[[codes](./codes/)\]** **\[[paper](https://arxiv.org/abs/2310.11270)\]**
+
 ## Abstract
 
 Graph neural networks (GNNs) have gained prominence in recommendation systems in recent years. By representing the user-item matrix as a bipartite and undirected graph, GNNs have demonstrated their potential to capture short- and long-distance user-item interactions, thereby learning more accurate preference patterns than traditional recommendation approaches. In contrast to previous tutorials on the same topic, this tutorial aims to present and examine three key aspects that characterize GNNs for recommendation: (i) the reproducibility of state-of-the-art approaches, (ii) the potential impact of graph topological characteristics on the performance of these models, and (iii) strategies for learning node representations when training features from scratch or utilizing pre-trained embeddings as additional item information (e.g., multimodal features). The goal is to provide three novel theoretical and practical perspectives on the field, currently subject to debate in graph learning but long been overlooked in the context of recommendation systems.
