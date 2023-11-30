@@ -6,7 +6,7 @@
 
 📚 Materials: **\[[website](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/)\]** **\[[slides](./slides/)\]** **\[[codes](./codes/)\]** **\[[papers](./papers/)\]**
 
-**\[UPDATE\]** We kindly ask you to fill in this anonymous form regarding the overall quality of the tutorial: https://docs.google.com/forms/d/1Am4LBsYtyOVzo3axIRqYOC7vHOB5BQ9aSMyvTsjjF7I/edit. As we are planning to present it to other venues, your feedback might be extremely important for us 🙏🙂
+**\[UPDATE\]** We kindly ask you to fill in this [anonymous form](https://docs.google.com/forms/d/1Am4LBsYtyOVzo3axIRqYOC7vHOB5BQ9aSMyvTsjjF7I/edit) regarding the overall quality of the tutorial. As we are planning to present it to other venues, your feedback might be extremely important for us 🙏🙂
 
 ## Abstract
 
