@@ -6,6 +6,8 @@
 
 📚 Materials: **\[[website](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/)\]** **\[[slides](./slides/)\]** **\[[codes](./codes/)\]** **\[[papers](./papers/)\]**
 
+**\[UPDATE\]** We kindly ask you to fill in this anonymous form regarding the overall quality of the tutorial: https://docs.google.com/forms/d/1Am4LBsYtyOVzo3axIRqYOC7vHOB5BQ9aSMyvTsjjF7I/edit. As we are planning to present it to other venues, your feedback might be extremely important for us 🙏🙂
+
 ## Abstract
 
 Graph neural networks (GNNs) have gained prominence in recommendation systems in recent years. By representing the user-item matrix as a bipartite and undirected graph, GNNs have demonstrated their potential to capture short- and long-distance user-item interactions, thereby learning more accurate preference patterns than traditional recommendation approaches. In contrast to previous tutorials on the same topic, this tutorial aims to present and examine three key aspects that characterize GNNs for recommendation: (i) the reproducibility of state-of-the-art approaches, (ii) the potential impact of graph topological characteristics on the performance of these models, and (iii) strategies for learning node representations when training features from scratch or utilizing pre-trained embeddings as additional item information (e.g., multimodal features). The goal is to provide three novel theoretical and practical perspectives on the field, currently subject to debate in graph learning but long been overlooked in the context of recommendation systems.
